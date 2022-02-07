@@ -1,6 +1,6 @@
 # American Flag
 
-This american flag has been built according to the [US flag design specifications](https://usflags.design/usa/).
+This american flag has been built in HTML & CSS, according to the [US flag design specifications](https://usflags.design/usa/).
 
 # Demo
 
